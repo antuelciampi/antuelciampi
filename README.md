@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antuelciampi&label=Profile%20views&color=0e75b6&style=flat" alt="antuelciampi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antuelciampi" alt="antuelciampi" /></a> </p>
-
 - 🌱 I’m currently learning **NextJS and seeking to start with any database**
 
 - 💬 Ask me about **Programing languages, music and videogames**
